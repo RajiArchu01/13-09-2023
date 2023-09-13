@@ -1,0 +1,22 @@
+package org.collections;
+
+import java.util.ArrayList;
+
+public class RemoveSecondIndexValue {
+
+	public static void main(String[] args) {
+		ArrayList l= new ArrayList();
+		l.add("10");   
+		l.add("20");
+		l.add("30");
+		l.add("40");
+		l.add("50");   
+		l.add("60");
+		
+	System.out.println(l);
+	l.remove(2);
+	System.out.println(l);
+
+	}
+
+}
