@@ -3,7 +3,7 @@ package com.map;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LinkedHashMap {
+public class LinkedHash {
 	public static void main(String[] args) {
 		//Create a HashMap with the below key and values
        // key    : 10,20,30,40,50,60,10,50,40
